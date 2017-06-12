@@ -1,14 +1,21 @@
 h1 {
   font-family: verdana;
   font-weight: normal;
-  color: Black;
+  color: White;
   text-align: center;
   font-size: 50px;
 
 }
 
-h2 {
-  color: aquamarine;
+.downloads {
+  color: Aquamarine;
   font-size: 16px;
+
+}
+
+body {
+  background-color: black;
+  text-align: center;
+
 
 }
