@@ -19,3 +19,15 @@ body {
 
 
 }
+
+html {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: Gray;
+  
+}
